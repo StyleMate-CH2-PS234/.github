@@ -26,6 +26,8 @@ StyleMate was built to overcome people's complaints, especially women, in choosi
 ### Model Performance
 ![image](https://github.com/StyleMate-CH2-PS234/.github/assets/109046228/0b9fd65b-50c1-49fb-8819-7de9e0f05b82)
 
-
+### Library Backend Service
+<a href="https://expressjs.com/">Express JS</a>
+<a href="https://www.tensorflow.org/js">TensorFlow JS</a>
 
 
