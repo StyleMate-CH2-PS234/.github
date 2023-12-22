@@ -1,10 +1,11 @@
-![logostylemate](https://github.com/StyleMate-CH2-PS234/.github/assets/109046228/0670f149-fee8-44a9-81d6-9ca10cf93a80)
+
+![292368096-0670f149-fee8-44a9-81d6-9ca10cf93a80](https://github.com/StyleMate-CH2-PS234/.github/assets/109046228/f8bdf895-9233-47ff-8b62-d3dde614666a)
 
 # StyleMate
 ## CH2-PS234
 
 
-members<br>
+### members
 
 <ul>
 <li>[active] (ML) M296BSY0480 –  Rizka Fiddiyansyah – Universitas Pembangunan Nasional Veteran Jawa Timur</li>
@@ -17,8 +18,10 @@ members<br>
 </ul>
 
 
-<br><br><br>
+<br>
 
-Project Description<br>
+### Project Description
 StyleMate was built to overcome people's complaints, especially women, in choosing hairstyles that suit their face shape. These complaints generally consist of dissatisfaction with the chosen hairstyle, because it does not suit the shape of the face. This can cause your appearance to become less attractive and confident. StyleMate is here as a solution to overcome these complaints. By using StyleMate, users can easily find a hairstyle that suits their face shape. StyleMate uses artificial intelligence (AI) technology to analyze the shape of the user's face, and then provides appropriate hairstyle recommendations. StyleMate's hairstyle recommendations are based on face shape. StyleMate also provides various examples of hairstyles. By using StyleMate, users can more easily find hairstyles that suit their face shape. This can increase the user's satisfaction with their appearance, and also increase their self-confidence.
+
+### Tech Stack
 
