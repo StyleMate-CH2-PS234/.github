@@ -1,3 +1,5 @@
+![logostylemate](https://github.com/StyleMate-CH2-PS234/.github/assets/109046228/0670f149-fee8-44a9-81d6-9ca10cf93a80)
+
 # StyleMate
 ## CH2-PS234
 
