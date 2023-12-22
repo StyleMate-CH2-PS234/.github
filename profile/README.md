@@ -27,6 +27,6 @@ StyleMate was built to overcome people's complaints, especially women, in choosi
 ![image](https://github.com/StyleMate-CH2-PS234/.github/assets/109046228/0b9fd65b-50c1-49fb-8819-7de9e0f05b82)
 
 ### release
-<a href="https://github.com/StyleMate-CH2-PS234/StyleMate-mobile/releases"><p>StyleMate 1.0.0</p></a>
+<p><a href="https://github.com/StyleMate-CH2-PS234/StyleMate-mobile/releases">StyleMate 1.0.0</a></p>
 
 
